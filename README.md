@@ -95,7 +95,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+https://github.com/user-attachments/assets/9d26f14d-ac4a-40e1-8e40-4e2adadcc5de
+
+
 *Demonstrating Continuous Typing Enforcement and Zero-G Debris Scattering*
 
 # Additional Demos

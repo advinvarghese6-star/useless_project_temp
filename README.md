@@ -96,7 +96,7 @@ For Hardware:
 *Demonstrating Continuous Typing Enforcement and Zero-G Debris Scattering*
 
 # Additional Demos
-[Live Demo - frontend/app/page.js](frontend/app/page.js)
+[Live Demo - frontend/app/page.js](useless-project-temp-df79.vercel.app)
 
 ## Team Contributions
 - [Advin Varghese]: [backend developer]

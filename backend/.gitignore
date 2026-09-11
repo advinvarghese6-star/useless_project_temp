@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+code_red.db
+test_code_red.db
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,28 @@
+# ========================
+# Frontend (Next.js & Node)
+# ========================
+node_modules/
+.next/
+out/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.pem
+.env*.local
+
+# ========================
+# Backend (Python / FastAPI)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+code_red.db
+test_code_red.db
+.pytest_cache/
+.coverage
+htmlcov/
+venv/

@@ -63,6 +63,7 @@ For Software:
 <img width="1902" height="1030" alt="image" src="https://github.com/user-attachments/assets/f6a02dd1-b899-4470-8a75-1f83e7cd231b" />
 
 *Stage 1 Zero-G Warning HUD Modal with Sarcastic Synthetic Audio Alert*
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/6d6b3a05-c3a2-4d34-b01e-e9a1de458a94" />
 
 
 *Stage 2 Anti-Gravity Physics Debris Engine Floating Syntax into Vacuum*

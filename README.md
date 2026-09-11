@@ -56,13 +56,15 @@ Open \`http://localhost:3000\` (or \`3001\`) in your web browser.
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](index.html)
+<img width="1902" height="1030" alt="image" src="https://github.com/user-attachments/assets/53701704-514a-45e9-aa5e-61b4b40de380" />
+
 *Anti-Gravity Code IDE with Live Gravity Status and Inactivity Watchdog*
 
-![Screenshot2](index.html)
+<img width="1902" height="1030" alt="image" src="https://github.com/user-attachments/assets/f6a02dd1-b899-4470-8a75-1f83e7cd231b" />
+
 *Stage 1 Zero-G Warning HUD Modal with Sarcastic Synthetic Audio Alert*
 
-![Screenshot3](index.html)
+
 *Stage 2 Anti-Gravity Physics Debris Engine Floating Syntax into Vacuum*
 
 # Diagrams

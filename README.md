@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/9d26f14d-ac4a-40e1-8e40-4e2adadcc5de
 *Demonstrating Continuous Typing Enforcement and Zero-G Debris Scattering*
 
 # Additional Demos
-[Live Demo - frontend/app/page.js](useless-project-temp-df79.vercel.app)
+[Live Demo - useless-project-temp-df79.vercel.app](useless-project-temp-df79.vercel.app)
 
 ## Team Contributions
 - [Advin Varghese]: [backend developer]

@@ -50,7 +50,7 @@ cd frontend
 npm install
 npm run dev
 \`\`\`
-Open \`http://localhost:3000\` (or \`3001\`) in your web browser.
+Open useless-project-temp-df79.vercel.app in your web browser.
 
 ### Project Documentation
 For Software:
@@ -70,9 +70,9 @@ For Software:
 
 # Diagrams
 ```
-Gravitational Workflow: Keystroke Anchor -> 4s Idle Trigger -> Sarcastic Audio Alert + Warning HUD -> 5s Countdown -> Gravitational Failure (Physics Debris Engine)
+Code red Workflow: Keystroke Anchor -> 4s Idle Trigger -> Sarcastic Audio Alert + Warning HUD -> 5s Countdown -> Gravitational Failure (Physics Debris Engine)
 ```
-*Gravitational Workflow State Machine*
+ Workflow State Machine*
 
 For Hardware:
 
